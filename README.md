@@ -6,8 +6,11 @@ This is a beginner-friendly project that performs sentiment analysis on social m
 📌 Project Highlights
 
 Upload a CSV dataset of social media posts
+
 Analyze sentiment using TextBlob
+
 Visualize sentiment distribution with Seaborn
+
 Export results as a new CSV file
 
 
