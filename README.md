@@ -1,6 +1,13 @@
 📊 Social Media Sentiment Analysis
 
-This is a beginner-friendly project that performs sentiment analysis on social media text data (like tweets, comments, or posts) and classifies them as Positive, Negative, or Neutral using Python and the TextBlob library.
+
+A beginner-friendly project that analyzes social media posts and classifies them into Positive, Negative, or Neutral sentiments using Python and TextBlob. Built for educational and analytical purposes, this project helps understand public opinion, trending topics, and engagement patterns.
+
+
+📂 Dataset Overview
+
+
+The sentimentsdataset.csv file contains social media posts with sentiment labels, timestamps, platforms, hashtags, engagement metrics, and locations. It also includes extracted date/time columns for time-based analysis.
 
 
 
